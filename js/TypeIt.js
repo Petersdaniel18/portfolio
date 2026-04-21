@@ -1,5 +1,5 @@
 const dynamicText = document.querySelector("h1 span");
-const words = ["Full-Stack Developer", "Tech Aficionado", "AI Engineer", "Pubic Speaker", "Lead Developer"];
+const words = ["Full-Stack Developer", "Network Engineer", "System Engineer", "Business Developer (TECH)", "Tech Facilitator"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
