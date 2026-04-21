@@ -1,40 +1,63 @@
-# Oluwademilade Bamgboye | Full-Stack Software Developer
+# Peters Daniel | Software Developer & Data Analyst
 
 ## Introduction
 
-Welcome to the professional portfolio of Oluwademilade Bamgboye, a seasoned Full-Stack Software Developer with a passion for innovation and a knack for creating seamless digital experiences. With over 3 years of experience in web and API development, security, mobile development, and now venturing into data analysis and AI, Oluwademilade is dedicated to pushing the boundaries of what's possible in the tech industry.
+Welcome to my portfolio. I am a Software Developer and Data Analyst with over 3 years of experience building scalable, efficient, and user-focused applications. I specialize in web development, API engineering, and integrating intelligent systems to solve real-world problems.
+
+---
 
 ## About Me
 
-I am a developer by day, innovator by night, with a rich background in web and API development, security, mobile development, and a growing interest in data analysis and AI. My journey has been fueled by a passion for technology and a commitment to solving complex problems with innovative solutions. Currently, I lead a dynamic team in an online groceries store, where we're revolutionizing the way people shop for their daily essentials.
+I am a passionate developer with a strong foundation in both frontend and backend development. Currently, I intern at TS Academy, where I work on building responsive web applications, developing backend systems, and exploring AI-driven solutions.
+
+My journey in tech has been driven by curiosity, continuous learning, and a desire to create impactful digital solutions. I enjoy turning complex ideas into simple, functional, and scalable systems.
+
+---
 
 ## Skills
 
-- **Languages**: Python, JavaScript, Golang
-- **Frameworks/Libraries**: Django, Flask, FastAPI
-- **Databases**: SQL, MongoDB
-- **Tools**: GitHub, Visual Studio Code
-- **Other**: HTML5, CSS3, API Development, Security, Mobile Development
+- **Languages**: Python, JavaScript  
+- **Frameworks/Libraries**: Flask, Django  
+- **Web Technologies**: HTML5, CSS3  
+- **Databases**: SQL, MongoDB  
+- **Tools**: Git, GitHub, Visual Studio Code  
+- **Other**: API Development, Backend Engineering, Data Analysis, AI Integration  
+
+---
 
 ## Projects
 
-Stay tuned for updates on projects I've worked on, showcasing my expertise in various technologies and my ability to deliver innovative solutions.
+I have worked on several projects that demonstrate my ability to design and implement real-world solutions, including web applications and system-based projects focused on security and intelligent monitoring.
+
+More projects will be added here as I continue to build and improve.
+
+---
+
+## EdTech & Community Impact
+
+I am a coding facilitator actively involved in the EdTech space, where I contribute to webinars, workshops, and training sessions. I focus on helping learners understand programming concepts, build practical projects, and develop skills relevant to today’s tech industry.
+
+---
 
 ## Technologies & Tools
 
-I've worked with a wide range of technologies in the web development world, collectively creating my full-stack experience. From Python and JavaScript to Django and Flask, and everything in between, I've honed my skills across the board to deliver robust and scalable solutions.
+I have hands-on experience working across different layers of the development stack, from building user interfaces to designing backend systems and APIs. My approach focuses on writing clean, maintainable code and building scalable solutions.
 
-## Impact
+---
 
-It's an honor to have the opportunity to work with some of the most renowned companies. My contributions have helped shape the future of technology and innovation.
+## Goal
+
+I am currently seeking opportunities to grow as a software developer, collaborate with innovative teams, and contribute to impactful projects in the tech industry.
+
+---
 
 ## Contact
 
-If you're looking to collaborate, have a project in mind, or simply want to connect, feel free to reach out. Let's work together to create something amazing.
+- Email: pdaniel242006@gmail.com  
+- GitHub: https://github.com/Petersdaniel18  
 
-- Email: demiladebamgboye@gmail.com
-- Social Media: [Facebook](https://web.facebook.com/iamAgbaCoder/), [GitHub](https://www.github.com/iamAgbaCoder), [Twitter](https://www.twitter.com/iamAgba_Coder), [LinkedIn](https://www.linkedin.com/in/iamAgbaCoder)
+---
 
-## Join the Journey
+## Let’s Connect
 
-Thank you for stopping by. I’m currently looking to join a new team of creative designers and developers. Or perhaps you have a new project or want me to speak at your next conference. Let's work together and make a difference.
+I’m open to collaborations, internships, and opportunities to work on meaningful projects. Let’s build something great together.
